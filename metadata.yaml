@@ -1,0 +1,30 @@
+_repo: Frivolous-Cupid_428
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: ''
+gutenberg_issued: '1996-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '428'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Reluctance -- Why men don't marry -- A change of heart -- A repentant
+  sinner -- 'Twixt will and will not -- Which shall it be? -- Marriage by compulsion
+  -- All's well that ends well.
+title: Frivolous Cupid
+url: http://www.gutenberg.org/ebooks/428
